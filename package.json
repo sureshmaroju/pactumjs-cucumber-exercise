@@ -1,0 +1,26 @@
+{
+  "name": "pactumjs-cucumber-exercise",
+  "version": "1.0.0",
+  "description": "api automation testing exercise using pactumJS and cucumber",
+  "type": "module",
+
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [
+    "pactumJS",
+    "pactum",
+    "cucumber",
+    "api"
+  ],
+  "author": "Suresh Maroju",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.8.0",
+    "assert": "^2.1.0",
+    "pactum": "^3.7.0"
+  },
+  "dependencies": {
+    "node": "^22.5.1"
+  }
+}
